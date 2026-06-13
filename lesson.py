@@ -28,3 +28,4 @@ bank = BankAccount(balance,name)
 print(bank.deposit(12)) #24
 print(bank.balance)
 print(bank.withdraw(6)) #18
+# хахаахахахахаха
